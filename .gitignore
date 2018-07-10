@@ -5,6 +5,6 @@
 *.out
 *.sync*
 *.tex
-.DS_store
+*.DS_store
 *.bbl
 *.blg
